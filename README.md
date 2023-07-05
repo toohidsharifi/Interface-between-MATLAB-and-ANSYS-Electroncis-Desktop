@@ -7,6 +7,8 @@ Similarly, in the field of electrical machines and drives, it becomes essential 
 available software packages for electric machine design such as ANSYS Electronics Desktop (ANSYS Maxwell), FEMM, JMAG, and others of that ilk 
 individually can't design an electrical machine with artificial intelligence.
 
+![Matlab ANSYS](https://github.com/toohidsharifi/Interface-between-MATLAB-and-ANSYS-Electroncis-Desktop/assets/126771405/f180cfc2-33ac-48a8-bdc2-f29cb6d3de15)
+
 This code is considered the basic platform to integrate machine design with artificial intelligence. You can expand this code to apply
 optimization, neural network modeling, and other methods of artificial intelligence.
 
