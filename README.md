@@ -6,8 +6,8 @@
 A simple code for running ANSYS Electronics Desktop (ANSYS Maxwell) from MATLAB.
 Using this code, you would be able to open ANSYS Electronics Desktop (ANSYS Maxwell) from MATLAB. This ability is essential for optimization and further studies on electric motors. The code has been tested on various versions of ANSYS, and each time, it worked well.
 
-![download](https://github.com/toohidsharifi/Interface-between-MATLAB-and-ANSYS-Electroncis-Desktop/assets/126771405/14b40858-83f8-4307-9fc6-8722388e0b94)
 ![download (1)](https://github.com/toohidsharifi/Interface-between-MATLAB-and-ANSYS-Electroncis-Desktop/assets/126771405/a15c971b-f4da-480e-ae8d-cbb0a6f522bb)
+![download](https://github.com/toohidsharifi/Interface-between-MATLAB-and-ANSYS-Electroncis-Desktop/assets/126771405/14b40858-83f8-4307-9fc6-8722388e0b94)
 
 You know that in recent years, machine learning and artificial intelligence methods caused many science majors to evolve for a superior positions. 
 Similarly, in the field of electrical machines and drives, it becomes essential to implement artificial intelligence methods. However, the
