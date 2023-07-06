@@ -19,6 +19,6 @@ individually can't design an electrical machine with artificial intelligence.
 This code is considered the basic platform to integrate machine design with artificial intelligence. You can expand this code to apply
 optimization, neural network modeling, and other methods of artificial intelligence.
 
-***The function of this code is simple: By this code, you can open ANSYS Electronics Desktop (ANSYS Maxwell) with MATLAB.
+*** The function of this code is simple: By this code, you can open ANSYS Electronics Desktop (ANSYS Maxwell) with MATLAB.
 
 ![images](https://github.com/toohidsharifi/Interface-between-MATLAB-and-ANSYS-Electroncis-Desktop/assets/126771405/5ea76e77-9e6a-4932-adda-dd7efd888173)
